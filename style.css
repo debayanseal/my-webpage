@@ -24,6 +24,11 @@ html,body{
 .navlink{
   font-size: 1.1em !important;
 }
+.navbar-toggler{
+  color: white;
+  border: 1px solid yellow;
+  padding: 2px;
+}
 .carousel-item:active{
   background-image: linear-gradient(rgba(0,0,0,1),rgba(0,0,0,1));
   background-size: cover;
@@ -276,11 +281,3 @@ Large (lg) devices (desktops, 992px and up)
 Extra (xl) large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) { ... }
 */
-
-
-
-
-
-
-
-
